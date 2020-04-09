@@ -1,0 +1,12 @@
+[package]
+name = "collect-memories"
+version = "0.1.0"
+authors = ["Pēteris Pakalns"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cursive = "0.14"
+nfd = "0.0.4"
+cursive_tree_view = "0.6.0"
